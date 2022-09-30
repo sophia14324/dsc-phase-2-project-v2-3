@@ -24,10 +24,10 @@ The stakeholder audience for this project is any external customers looking to p
 
 ## Modeling
 ### Simple Linear Regression (Baseline Model)
-![graph](simpleRegression.png)
+![graph](C:/Users/HP/phase2project/dsc-phase-2-project-v2-3/images.png)
 
 ### Multiple Linear Regression (Baseline Model)
-![Screenshot](Regression.png)
+![graph](C:\Users\HP\phase2project\dsc-phase-2-project-v2-3\images.png)
 
 
 ## Regression Results
