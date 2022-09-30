@@ -27,7 +27,7 @@ The stakeholder audience for this project is any external customers looking to p
 ![graph](simpleRegression.png)
 
 ### Multiple Linear Regression (Baseline Model)
-![graph](Regression.png)
+![Screenshot](Regression.png)
 
 
 ## Regression Results
